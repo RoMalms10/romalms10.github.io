@@ -54,7 +54,7 @@ const Portfolio = () => {
     {
       company: "Ria Money Transfer",
       role: "Software Engineer",
-      period: "Jan 2025 - Aug 2025",
+      period: "Jan 2025 - Present",
       location: "Denver, CO",
       highlights: ["$15k+ monthly cost savings", "Pioneered RabbitMQ implementation", "AI tooling evaluation"]
     },
