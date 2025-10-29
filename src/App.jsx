@@ -45,13 +45,6 @@ const Portfolio = () => {
 
   const experience = [
     {
-      company: "Massive Dynamic Ventures",
-      role: "Founder & CEO",
-      period: "May 2025 - Present",
-      location: "Denver, CO",
-      highlights: ["Building event ticketing platform", "Full-stack development", "Sole engineer on multiple projects"]
-    },
-    {
       company: "Ria Money Transfer",
       role: "Software Engineer",
       period: "Jan 2025 - Present",
