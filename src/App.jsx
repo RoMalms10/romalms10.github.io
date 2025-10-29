@@ -29,7 +29,7 @@ const Portfolio = () => {
       subtitle: "RabbitMQ Implementation",
       tech: ["RabbitMQ", "WhatsApp API", "Microservices", ".NET"],
       description: "Pioneered first RabbitMQ implementation at Ria to build WhatsApp chatbot for money transfers, creating an entirely new customer channel.",
-      status: "Production",
+      status: "Live",
       impact: "New customer channel for money transfers"
     },
     {
@@ -38,7 +38,7 @@ const Portfolio = () => {
       subtitle: "Luxury Goods Authentication",
       tech: ["PHP", "Go", "Kubernetes", "Third-party APIs"],
       description: "Designed and architected core authentication product for online item verification in collaboration with third-party vendors.",
-      status: "Live Production",
+      status: "Live",
       impact: "10% increase in luxury goods sell-through rate"
     }
   ];
